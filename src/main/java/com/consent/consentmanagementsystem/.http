@@ -1,0 +1,2 @@
+POST http://localhost:8080/consent?userId=abc123&hasConsented=true
+Content-Type: application/x-www-form-urlencoded
